@@ -1,0 +1,14 @@
+﻿  Socket.cpp
+C:\Users\Daniel\source\repos\Socket\Socket\Socket.cpp(10,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Daniel\source\repos\Socket\Socket\Socket.cpp(64,50): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Daniel\source\repos\Socket\Socket\Socket.cpp(67,54): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Daniel\source\repos\Socket\Socket\Socket.cpp(82,46): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Daniel\source\repos\Socket\Socket\Socket.cpp(84,40): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Daniel\source\repos\Socket\Socket\Socket.cpp(93,46): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  mpi.cpp
+C:\Users\Daniel\source\repos\Socket\Socket\mpi.cpp(64,21): warning C4244: =: преобразование "SOCKET" в "int", возможна потеря данных
+C:\Users\Daniel\source\repos\Socket\Socket\mpi.cpp(131,21): warning C4244: =: преобразование "SOCKET" в "int", возможна потеря данных
+C:\Users\Daniel\source\repos\Socket\Socket\mpi.cpp(223,40): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Daniel\source\repos\Socket\Socket\mpi.cpp(227,68): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+  Создание кода...
+  Socket.vcxproj -> C:\Users\Daniel\source\repos\Socket\x64\Debug\Socket.exe
